@@ -1,7 +1,7 @@
 Mp3-Decoder-Encoder
 ===================
 
-  This is about encoding .mp3 files . the Mp3Header class gets info about Mp3
+  This is about encoding or maybe better to say encrypting .mp3 files . the Mp3Header class gets info about Mp3
   file then you can use it in this class . first you find the headers then
   in data section there is a method called Encode which here is a very simple
   one . you can replace with whatever you want . and also there is another one
